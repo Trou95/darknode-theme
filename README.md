@@ -2,6 +2,11 @@
 
 A modern, good-looking, productivity-increaser theme especially designed for Node.js development in JetBrains IDEs.
 
+
+<img width="2502" height="1329" alt="darknode-screenshot" src="https://github.com/user-attachments/assets/49d01b78-9782-45ee-84e1-6fe111c11427" />
+
+
+
 ## Installation
 
 1. Download the plugin files
