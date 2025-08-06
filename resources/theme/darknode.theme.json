@@ -4,7 +4,7 @@
   "editorScheme": "/theme/darknode.xml",
   "dark": true,
   "colors": {
-    "color-bg": "#252424"
+    "color-bg": "#282C34"
   },
   "ui": {
     "*": {
@@ -12,10 +12,12 @@
     },
     "Tree.selectionBackground": "#3c9f4a",
     "Tree.selectionForeground": "#000000",
-    "Tree.selectionInactiveBackground": "#6a8d6a",
+    "Tree.selectionInactiveBackground": "#41556e",
     "Borders.color": "#0e0e0e",
     "EditorTabs": {
-      "underlineColor": "#10a429"
+      "background": "#1f1f1f",
+      "underlineColor": "#10a429",
+      "underlinedTabBackground": "#414141"
     },
     "ToolWindow": {
       "Header": {
@@ -42,7 +44,7 @@
     },
     "CompletionPopup": {
       "foreground": "#FFFFFF",
-      "matchForeground": "#eed69d",
+      "matchForeground": "#ffd796",
       "selectionBackground": "#507939",
       "selectionInactiveBackground": "#507939",
       "Advertiser.background": "color-bg"

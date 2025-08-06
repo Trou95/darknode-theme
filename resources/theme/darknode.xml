@@ -30,7 +30,7 @@
         <option name="DIFF_SEPARATORS_BACKGROUND" value="21252B" />
         <option name="DOCUMENTATION_COLOR" value="3D424B" />
         <option name="ERROR_HINT" value="781732" />
-        <option name="FILESTATUS_ADDED" value="A9DC76" />
+        <option name="FILESTATUS_ADDED" value="ffd796" />
         <option name="FILESTATUS_COPIED" value="A9DC76" />
         <option name="FILESTATUS_DELETED" value="727072" />
         <option name="FILESTATUS_HIJACKED" value="FFD866" />
@@ -39,8 +39,8 @@
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FC9867" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FC9867" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FC9867" />
-        <option name="FILESTATUS_MERGED" value="AB9DF2" />
-        <option name="FILESTATUS_MODIFIED" value="78DCE8" />
+        <option name="FILESTATUS_MERGED" value="ffd796" />
+        <option name="FILESTATUS_MODIFIED" value="22c97c" />
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78DCE8" />
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78DCE8" />
         <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
@@ -49,7 +49,7 @@
         <option name="FILESTATUS_UNKNOWN" value="F59762" />
         <option name="FILESTATUS_addedOutside" value="FFD866" />
         <option name="FILESTATUS_changelistConflict" value="F65F87" />
-        <option name="FILESTATUS_modifiedOutside" value="AB9DF2" />
+        <option name="FILESTATUS_modifiedOutside" value="EED69D" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
         <option name="GUTTER_BACKGROUND" value="282C34" />
         <option name="HTML_TAG_TREE_LEVEL0" value="F44747" />
@@ -2182,7 +2182,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="abb2bf" />
-                <option name="BACKGROUND" value="252424" />
+                <option name="BACKGROUND" value="282C34" />
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
