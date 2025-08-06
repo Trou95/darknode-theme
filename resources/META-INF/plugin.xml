@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>darknode.theme</id>
     <name>Darknode Theme</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <category>UI</category>
 
     <vendor email="gorkem.dm95@gmail.com" url="https://github.com/Trou95">Github</vendor>
@@ -13,13 +13,13 @@
   ]]></description>
 
     <change-notes><![CDATA[
-    Initial release of the theme.
+    *1.0.0: Update color palette
   ]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="darknode.15151885" path="/theme/darknode.theme.json"/>
-        <bundledColorScheme id="Dark Node" path="/theme/darknode"/>
+        <themeProvider id="darknode.15152525" path="/theme/darknode.theme.json"/>
+        <bundledColorScheme id="darknode.15152525" path="/theme/darknode"/>
     </extensions>
 </idea-plugin>
