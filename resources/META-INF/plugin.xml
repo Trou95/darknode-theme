@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>darknode.theme</id>
+    <name>Darknode Theme</name>
+    <version>1.0.0</version>
+    <category>UI</category>
+
+    <vendor email="gorkem.dm95@gmail.com" url="https://github.com/Trou95">Github</vendor>
+
+    <description><![CDATA[
+    Darknode Theme.
+
+    A modern, good-looking, productivity-increaser theme especially designed for Node.js.
+  ]]></description>
+
+    <change-notes><![CDATA[
+    Initial release of the theme.
+  ]]></change-notes>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="darknode.15151885" path="/theme/darknode.theme.json"/>
+        <bundledColorScheme id="Dark Node" path="/theme/darknode"/>
+    </extensions>
+</idea-plugin>

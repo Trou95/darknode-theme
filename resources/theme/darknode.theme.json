@@ -1,0 +1,52 @@
+{
+  "name": "Darknode Theme",
+  "author": "Trou95",
+  "editorScheme": "/theme/darknode.xml",
+  "dark": true,
+  "colors": {
+    "color-bg": "#252424"
+  },
+  "ui": {
+    "*": {
+      "background": "color-bg"
+    },
+    "Tree.selectionBackground": "#3c9f4a",
+    "Tree.selectionForeground": "#000000",
+    "Tree.selectionInactiveBackground": "#6a8d6a",
+    "Borders.color": "#0e0e0e",
+    "EditorTabs": {
+      "underlineColor": "#10a429"
+    },
+    "ToolWindow": {
+      "Header": {
+        "inactiveBackground": "#1f1f1f"
+      },
+      "HeaderTab.underlineColor": "#6a8d6a",
+      "HeaderTab.padding": "20,20,20,20",
+      "Button": {
+        "hoverBackground": "#6a8d6a",
+        "selectedBackground": "#6a8d6a"
+      }
+    },
+    "Button": {
+
+    },
+    "ActionButton": {
+      "hoverBackground": "#6a8d6a",
+      "pressedBackground": "#6a8d6a"
+    },
+    "Popup": {
+      "background": "color-bg",
+      "borderColor": "color-bg",
+      "Advertiser.background": "color-bg"
+    },
+    "CompletionPopup": {
+      "foreground": "#FFFFFF",
+      "matchForeground": "#eed69d",
+      "selectionBackground": "#507939",
+      "selectionInactiveBackground": "#507939",
+      "Advertiser.background": "color-bg"
+    },
+    "FileColor.Green": "#13980d"
+  }
+}
