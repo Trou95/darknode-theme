@@ -4,6 +4,8 @@
     <version>1.0.1</version>
     <category>UI</category>
 
+    <idea-version since-build="202"/>
+
     <vendor email="gorkem.dm95@gmail.com" url="https://github.com/Trou95">Github</vendor>
 
     <description><![CDATA[
