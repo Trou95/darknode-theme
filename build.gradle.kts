@@ -5,6 +5,12 @@ plugins {
 group = "darknode.theme"
 version = "1.1.0"
 
+sourceSets {
+    main {
+        resources.srcDir("resources")
+    }
+}
+
 repositories {
     mavenCentral()
     intellijPlatform {
