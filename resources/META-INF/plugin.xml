@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>darknode.theme</id>
     <name>Darknode Theme</name>
-    <version>1.0.1</version>
+    <version>1.1.0</version>
     <category>UI</category>
 
     <idea-version since-build="202"/>
@@ -9,19 +9,18 @@
     <vendor email="gorkem.dm95@gmail.com" url="https://github.com/Trou95">Github</vendor>
 
     <description><![CDATA[
-    Darknode Theme.
-
-    A modern, good-looking, productivity-increaser theme especially designed for Node.js.
+    A refined dark theme for JetBrains IDEs, with a dedicated Islands UI variant and a consistent editor palette for web development.
   ]]></description>
 
     <change-notes><![CDATA[
-    *1.0.0: Update color palette
+    *1.1.0: Modernize the Darknode UI and add Darknode Islands.
   ]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="darknode.15152525" path="/theme/darknode.theme.json"/>
+        <themeProvider id="darknode.islands.2026" path="/theme/darknode-islands.theme.json"/>
         <bundledColorScheme id="darknode.15152525" path="/theme/darknode"/>
     </extensions>
 </idea-plugin>

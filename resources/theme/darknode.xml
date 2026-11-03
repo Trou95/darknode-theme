@@ -14,7 +14,7 @@
         <option name="BookmarkMnemonicIcon.background" value="3D424B" />
         <option name="BookmarkMnemonicIcon.borderColor" value="568AF2" />
         <option name="BookmarkMnemonicIcon.foreground" value="A0A7B4" />
-        <option name="CARET_COLOR" value="528BFF" />
+        <option name="CARET_COLOR" value="70C98A" />
         <option name="CARET_ROW_COLOR" value="2C313C" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
         <option name="DELETED_LINES_COLOR" value="E06C75" />
@@ -27,7 +27,7 @@
         <option name="DIAGRAM_NOTE_BACKGROUND" value="414855" />
         <option name="DIAGRAM_NOTE_BORDER" value="5C6370" />
         <option name="DIAGRAM_REALIZATION_EDGE" value="98C379" />
-        <option name="DIFF_SEPARATORS_BACKGROUND" value="21252B" />
+        <option name="DIFF_SEPARATORS_BACKGROUND" value="252A34" />
         <option name="DOCUMENTATION_COLOR" value="3D424B" />
         <option name="ERROR_HINT" value="781732" />
         <option name="FILESTATUS_ADDED" value="ffd796" />
@@ -51,7 +51,7 @@
         <option name="FILESTATUS_changelistConflict" value="F65F87" />
         <option name="FILESTATUS_modifiedOutside" value="EED69D" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-        <option name="GUTTER_BACKGROUND" value="282C34" />
+        <option name="GUTTER_BACKGROUND" value="20242D" />
         <option name="HTML_TAG_TREE_LEVEL0" value="F44747" />
         <option name="HTML_TAG_TREE_LEVEL1" value="E5C07B" />
         <option name="HTML_TAG_TREE_LEVEL2" value="98C379" />
@@ -66,7 +66,7 @@
         <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="333841" />
         <option name="LINE_NUMBERS_COLOR" value="495162" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
-        <option name="LOOKUP_COLOR" value="21252B" />
+        <option name="LOOKUP_COLOR" value="252A34" />
         <option name="METHOD_SEPARATORS_COLOR" value="3B4048" />
         <option name="MODIFIED_LINES_COLOR" value="D19A66" />
         <option name="QUESTION_HINT" value="2E4280" />
@@ -74,8 +74,8 @@
         <option name="RIGHT_MARGIN_COLOR" value="606368" />
         <option name="SELECTED_INDENT_GUIDE" value="606368" />
         <option name="SELECTED_TEARLINE_COLOR" value="6B6E73" />
-        <option name="SELECTION_BACKGROUND" value="404859" />
-        <option name="ScrollBar.background" value="282C34" />
+        <option name="SELECTION_BACKGROUND" value="34465E" />
+        <option name="ScrollBar.background" value="20242D" />
         <option name="TEARLINE_COLOR" value="4F575F" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="3E443C" />
@@ -292,7 +292,7 @@
         <option name="CONSOLE_GRAY_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="646a73" />
-                <option name="ERROR_STRIPE_COLOR" value="21252b" />
+                <option name="ERROR_STRIPE_COLOR" value="252a34" />
             </value>
         </option>
         <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -2182,7 +2182,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="abb2bf" />
-                <option name="BACKGROUND" value="282C34" />
+                <option name="BACKGROUND" value="20242D" />
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -2285,7 +2285,7 @@
         </option>
         <option name="VELOCITY_SCRIPTING_BACKGROUND">
             <value>
-                <option name="BACKGROUND" value="282c34" />
+                <option name="BACKGROUND" value="20242d" />
             </value>
         </option>
         <option name="WARNING_ATTRIBUTES">
@@ -2333,7 +2333,7 @@
         <option name="XML_PROLOGUE">
             <value>
                 <option name="FOREGROUND" value="abb2bf" />
-                <option name="BACKGROUND" value="282c34" />
+                <option name="BACKGROUND" value="20242d" />
             </value>
         </option>
         <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />

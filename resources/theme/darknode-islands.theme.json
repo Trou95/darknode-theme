@@ -1,0 +1,40 @@
+{
+  "name": "Darknode Islands",
+  "author": "Trou95",
+  "parentTheme": "Islands Dark",
+  "editorScheme": "/theme/darknode.xml",
+  "dark": true,
+  "colors": {
+    "color-bg": "#20242D",
+    "color-panel": "#252A34",
+    "color-selection": "#34465E",
+    "color-accent": "#70C98A"
+  },
+  "ui": {
+    "Islands": 1,
+    "Island.borderColor": "#252A34",
+    "MainWindow.background": "#303641",
+    "MainToolbar.background": "#303641",
+    "MainToolbar.borderColor": "#30364100",
+    "StatusBar.background": "#303641",
+    "StatusBar.borderColor": "#30364100",
+    "ToolWindow.background": "color-bg",
+    "ToolWindow.Header.background": "color-bg",
+    "ToolWindow.Header.inactiveBackground": "color-bg",
+    "ToolWindow.Stripe.borderColor": "#20242D00",
+    "EditorTabs.background": "color-bg",
+    "EditorTabs.underlineColor": "color-accent",
+    "EditorTabs.underlinedTabBackground": "#2A303B",
+    "EditorTabs.inactiveUnderlinedTabBackground": "#252A34",
+    "EditorTabs.underlinedBorderColor": "color-accent",
+    "EditorTabs.inactiveUnderlinedTabBorderColor": "#4B5666",
+    "Tree.selectionBackground": "color-selection",
+    "Tree.selectionForeground": "#E6EDF7",
+    "Borders.color": "#343A46",
+    "ActionButton.hoverBackground": "#343B48",
+    "Popup.background": "#252A34",
+    "Popup.borderColor": "#3A414E",
+    "CompletionPopup.selectionBackground": "color-selection",
+    "FileColor.Green": "color-accent"
+  }
+}
