@@ -4,6 +4,7 @@ on:
   push:
     tags:
       - "v*"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,8 +23,18 @@ jobs:
           gradle-version: "9.1.0"
       - name: Build plugin distribution
         run: gradle buildPlugin
+      - name: Check Marketplace publishing token
+        id: marketplace-token
+        env:
+          TOKEN: ${{ secrets.JETBRAINS_MARKETPLACE_TOKEN }}
+        run: |
+          if [ -n "$TOKEN" ]; then
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "available=false" >> "$GITHUB_OUTPUT"
+          fi
       - name: Publish to JetBrains Marketplace
-        if: ${{ secrets.JETBRAINS_MARKETPLACE_TOKEN != '' }}
+        if: steps.marketplace-token.outputs.available == 'true'
         env:
           JETBRAINS_MARKETPLACE_TOKEN: ${{ secrets.JETBRAINS_MARKETPLACE_TOKEN }}
         run: gradle publishPlugin
